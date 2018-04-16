@@ -18,3 +18,6 @@ Test-Driven Development (TDD).
 $ git clone https://github.com/kaaristrack/FizzBuzzCSharp
 $ cd FizzBuzzCSharp
 ```
+2) Compile and run using Visual Studio Community!
+
+<a href="https://www.visualstudio.com/vs/community/"><img src="https://image.ibb.co/gvbP97/vs_banner.jpg" align="center" alt="visual_studio_banner" width="200"/>
